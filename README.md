@@ -11,3 +11,7 @@ Project List :-
 04 | Number Comparison Tool | [view code](Project-04.py)
 
 05 | Countdown Timer | [view code](Project-05.py)
+
+06 | Basic math Quiz Game | [view code](Project-06.py)
+
+07 | Shopping list App | [view code](Project-07.py)
