@@ -15,3 +15,5 @@ Project List :-
 06 | Basic math Quiz Game | [view code](Project-06.py)
 
 07 | Shopping list App | [view code](Project-07.py)
+
+08 | Contact Book | [view code](Project-08.py)
