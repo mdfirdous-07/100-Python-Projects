@@ -19,3 +19,5 @@ Project List :-
 08 | Contact Book | [view code](Project-08.py)
 
 09 | Ingredient Checker | [view code](Project-09.py)
+
+10 | Note-Taking App | [view code](Project-10.py)
