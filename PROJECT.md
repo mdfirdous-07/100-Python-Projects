@@ -21,3 +21,5 @@ Project List :-
 09 | Ingredient Checker | [view code](Project-09.py)
 
 10 | Note-Taking App | [view code](Project-10.py)
+
+11 | Safe Calculator | [view code](Project-11.py)
