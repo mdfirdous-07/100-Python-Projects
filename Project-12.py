@@ -22,9 +22,9 @@ def kelvin_to_fahrenheit(kelvin):
 #  step2:- Display the menu
 def show_menu():
     print("\n---Temperature Converter Menu---\n")
-    print("1. Celsius to fahrenheit & kelvin")
-    print("2. fahrenheit to Celsius & kelvin")
-    print("3. kelvin to Celsius & fahrenheit")
+    print("1. Celsius to Fahrenheit & Kelvin")
+    print("2. Fahrenheit to Celsius & Kelvin")
+    print("3. Kelvin to Celsius & Fahrenheit")
     print("4. exit")
 
 # step3:- Main program loop
@@ -39,13 +39,13 @@ while True:
         
     elif choice == "2":
         fahrenheit = float(input("Enter temperature in fahrenheit: "))
-        print(f"celsius: {fahrenheit_to_celsius(fahrenheit):.2f}")
-        print(f"kelvin: {fahrenheit_to_kelvin(fahrenheit):.2f}")
+        print(f"Celsius: {fahrenheit_to_celsius(fahrenheit):.2f}")
+        print(f"Kelvin: {fahrenheit_to_kelvin(fahrenheit):.2f}")
     
     elif choice == "3":
         kelvin = float(input("Enter Temperature in Kelvin: "))
-        print(f"celsius: {kelvin_to_celsius(kelvin):.2f}")
-        print(f"fahrenheit: {kelvin_to_fahrenheit(kelvin):.2f}")
+        print(f"Celsius: {kelvin_to_celsius(kelvin):.2f}")
+        print(f"Fahrenheit: {kelvin_to_fahrenheit(kelvin):.2f}")
         
     elif choice == "4":
         print(" Exiting the program. Goodbye! ")
