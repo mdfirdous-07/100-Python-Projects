@@ -31,3 +31,5 @@ Project List :-
 14 | Random Password Generator | [view code](Project-14.py)
 
 15 | Recipe Viewer App | [view code](Project-15.py)
+
+16 | Daily Journal Logger | [view code](Project-16.py)
